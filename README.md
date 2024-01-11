@@ -20,6 +20,9 @@ In this project I created an application using node.js that will help users gene
 
 Below is a video demonstrating how the application works:
 
+https://github.com/Ikran1/README-generator-/assets/133378228/c2c55bc8-e1e4-4270-bd57-b97ba52e296b
+
+
 ## Credit
 
 I collaborated with Qaleh Saleh on this challenge: GitHub: https://github.com/Qaleh1000
