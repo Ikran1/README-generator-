@@ -24,12 +24,11 @@ Below is a video demonstrating how the application works:
 
 I collaborated with Qaleh Saleh on this challenge: GitHub: https://github.com/Qaleh1000
 
-Below are the links to the websites I have used for my images:
+Below are the links to the websites I have used:
 
-- https://placehold.co/
-- https://icons8.com/icons/set/
-- https://getbootstrap.com/docs/5.3/components/navbar/
-- https://fontawesome.com/search?q=github&o=r
+- https://www.npmjs.com/package/node
+- https://www.npmjs.com/package/inquirer
+- https://www.geeksforgeeks.org/node-js-fs-writefile-method/
 
 ## License
 
